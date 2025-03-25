@@ -1,6 +1,6 @@
 # Portfolio
 
-- 👋 Hi, I’m Anukar,
+- 👋 Hi, I’m Atul,
 - 👀 I’m interested in Web Security & Programing.
 - 🌱 I’m currently learning "Nothing" lol
 
