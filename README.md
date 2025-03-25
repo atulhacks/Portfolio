@@ -19,7 +19,7 @@
     <img height="200px" style="border:none; border-radius:5px;" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=atulhacks&theme=gruvbox_light&layout=compact"/>
 </div>
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=atulhack&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" style="width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=atulhacks&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" style="width: 49%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulhacks&theme=chartreuse-dark&hide_border=True&bg_color=000000"  width="49%";>
 </div>
 
